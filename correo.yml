@@ -7,7 +7,7 @@
     packages:
      - postfix
      - dovecot
-     - squirrelmail
+     - squirrelmailll
      - httpd
 
   tasks:
